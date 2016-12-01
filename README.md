@@ -1,1 +1,4 @@
-# plus65-test
+# test-challenge
+
+1. npm install
+2. npm start
